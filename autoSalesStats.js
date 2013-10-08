@@ -32,8 +32,8 @@ quarterFour = prompt("Quarter four sales:");
 quarterFour = parseFloat(quarterFour);
 
 //Processing input to provide output 
-//total = quarterOne + quarterTwo + quarterThree+ quarterFour;
-//average = total/4;
+total = quarterOne + quarterTwo + quarterThree+ quarterFour;
+average = total/4;
 
 //Output of data
 //document.write("Given quarterly sales of" + ES + quarterOne.toFix(2) + "," + ES + quarterTwo.toFix(2) + "," + ES + quarterThree.toFix(2) + "," + ES + quarterFour.toFix(2) + "," + ES "the yearly total is:" + ES + total.toFix(2) + LE + BR);
