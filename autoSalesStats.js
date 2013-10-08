@@ -26,10 +26,10 @@ quarterOne = prompt("In order to calculate the average quarterly sales and the t
 quarterOne = parseFloat(quarterOne);
 quarterTwo = prompt("Quarter two sales:");
 quarterTwo = parseFloat(quarterTwo);
-//quarterThree = prompt("Quarter three sales:");
-//quarterThree = parseFloat(quarterThree);
-//quarterFour = prompt("Quarter four sales:");
-//quarterFour = parseFloat(quarterFour);
+quarterThree = prompt("Quarter three sales:");
+quarterThree = parseFloat(quarterThree);
+quarterFour = prompt("Quarter four sales:");
+quarterFour = parseFloat(quarterFour);
 
 //Processing input to provide output 
 //total = quarterOne + quarterTwo + quarterThree+ quarterFour;
