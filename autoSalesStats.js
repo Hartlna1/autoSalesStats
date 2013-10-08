@@ -36,8 +36,8 @@ total = quarterOne + quarterTwo + quarterThree+ quarterFour;
 average = total/4;
 
 //Output of data
-//document.write("Given quarterly sales of" + ES + quarterOne.toFix(2) + "," + ES + quarterTwo.toFix(2) + "," + ES + quarterThree.toFix(2) + "," + ES + quarterFour.toFix(2) + "," + ES "the yearly total is:" + ES + total.toFix(2) + LE + BR);
-//document.write("The quarterly average is:" + ES + average.toFix(2) + LE + BR + BR);
+document.write("Given quarterly sales of $" + quarterOne.toFixed(2) + ", $" + quarterTwo.toFixed(2) + ", $" + quarterThree.toFixed(2) + ", $" + quarterFour.toFixed(2) + "," + ES + "the yearly total is: $" + total.toFixed(2) + LE + BR);
+//document.write("The quarterly average is:" + ES + average.toFixed(2) + LE + BR + BR);
 
 //Thank the user and end the program
 //document.write("Thank you for using our program!" + BR);
