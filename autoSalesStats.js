@@ -40,4 +40,4 @@ document.write("Given quarterly sales of $" + quarterOne.toFixed(2) + ", $" + qu
 document.write("The quarterly average is: $" + average.toFixed(2) + LE + BR + BR);
 
 //Thank the user and end the program
-//document.write("Thank you for using our program!" + BR);
+document.write("Thank you for using our program!" + BR);
